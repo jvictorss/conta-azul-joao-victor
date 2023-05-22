@@ -23,7 +23,7 @@ A Mars Rover Application is a Spring Boot-based REST API that allows controlling
 4. Run the application:
   ```mvn spring-boot:run```
 
-## The application will start and be accessible at `http://localhost:8080`
+### The application will start and be accessible at `http://localhost:8080`
 
 ## APIs endpoints:
 ### Execute Rover Commands:
