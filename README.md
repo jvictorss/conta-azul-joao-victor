@@ -12,7 +12,7 @@ A Mars Rover Application is a Spring Boot-based REST API that allows controlling
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/jvictorss/conta-azul-joao-victor```
+   git clone https://github.com/jvictorss/conta-azul-joao-victor
 
 2. Navigate to the project directory:
   ```cd conta-azul-joao-victor```
